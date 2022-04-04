@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     public static final int REQUEST_SELECT_FILE = 100;
     private final static int FILECHOOSER_RESULTCODE = 1;
 
-    public String url ="https://fmlk.firectmusic.ru";
+    public String url = "https://fmlk.firectmusic.ru";
 
 
     @Override
