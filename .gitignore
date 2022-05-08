@@ -13,6 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
-*.apk
-*.aab
-app/**/output-metadata.json
+/app/release/*.apk
+/app/release/*.aab
+/app/**/output-metadata.json
