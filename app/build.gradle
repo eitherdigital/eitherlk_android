@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "ru.firectmusic.fmlkclient"
+        applicationId "digital.either.eitherlk"
         minSdk 23
         targetSdk 32
         versionName androidGitVersion.name()
